@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f758a1c0-2cd9-44d1-bf4c-0732b4adcced" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2koE1hziZ8hi4iwoRNJxdHwp31t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combined_registration_login_parentage_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.enhanced_ok_with_progress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_bilingual_login_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_code_registration_login_language.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_code_with_progress_preserved.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_combined_code_with_registration_login_bilingual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_combined_with_login_registration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_corrected_code_with_progress_preserved.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_corrected_code_without_initUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_corrected_multithreaded_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_corrected_registration_login_language_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_fixed_code_with_progress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_fully_corrected_code_with_progress_preserved.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_login_corrected_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_login_layout_fixed_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_multithreaded_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_ok_with_progress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_proper_login_flow_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_properly_fixed_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_sys_import_fixed_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_with_progress_preserved_ui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_with_registration_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_with_registration_login_bilingual_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate_keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get-pip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modified_ok_with_progress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ok_modified.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ok_modified_with_step_display.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ok_with_progress_bar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.爱你.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f758a1c0-2cd9-44d1-bf4c-0732b4adcced" name="更改" comment="" />
+      <created>1723941315258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723941315258</updated>
+      <workItem from="1723941317465" duration="27739000" />
+      <workItem from="1724067846983" duration="2229000" />
+      <workItem from="1724070123910" duration="833000" />
+      <workItem from="1724070966022" duration="3006000" />
+      <workItem from="1724124447321" duration="26187000" />
+      <workItem from="1725258035135" duration="38000" />
+      <workItem from="1725258124501" duration="232000" />
+      <workItem from="1725507703769" duration="9243000" />
+      <workItem from="1737280943629" duration="16731000" />
+      <workItem from="1740018544499" duration="1809000" />
+      <workItem from="1740322064242" duration="4913000" />
+      <workItem from="1741526438839" duration="5188000" />
+      <workItem from="1742999314752" duration="5831000" />
+      <workItem from="1743943171938" duration="4757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/app$final_bilingual_login_code.coverage" NAME="final_bilingual_login_code 覆盖结果" MODIFIED="1725524331704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_corrected_code_without_initUI.coverage" NAME="final_corrected_code_without_initUI 覆盖结果" MODIFIED="1725525445771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_with_progress_preserved_ui.coverage" NAME="final_with_progress_preserved_ui 覆盖结果" MODIFIED="1725523316450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$ok_with_progress_bar.coverage" NAME="ok_with_progress_bar 覆盖结果" MODIFIED="1725521221274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$combined_registration_login_parentage_analysis.coverage" NAME="combined_registration_login_parentage_analysis 覆盖结果" MODIFIED="1725526688441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$modified_ok_with_progress.coverage" NAME="modified_ok_with_progress 覆盖结果" MODIFIED="1725521124226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_corrected_multithreaded_code.coverage" NAME="final_corrected_multithreaded_code 覆盖结果" MODIFIED="1725522166689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_properly_fixed_code.coverage" NAME="final_properly_fixed_code 覆盖结果" MODIFIED="1725524263061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$.coverage" NAME="爱你 覆盖结果" MODIFIED="1737558184052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/app$final_multithreaded_code.coverage" NAME="final_multithreaded_code 覆盖结果" MODIFIED="1725521974732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_proper_login_flow_code.coverage" NAME="final_proper_login_flow_code 覆盖结果" MODIFIED="1725524709513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_combined_code_with_registration_login_bilingual.coverage" NAME="final_combined_code_with_registration_login_bilingual 覆盖结果" MODIFIED="1725525635595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$enhanced_ok_with_progress.coverage" NAME="enhanced_ok_with_progress 覆盖结果" MODIFIED="1725521427333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_corrected_code_with_progress_preserved.coverage" NAME="final_corrected_code_with_progress_preserved 覆盖结果" MODIFIED="1725523752066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_login_layout_fixed_code.coverage" NAME="final_login_layout_fixed_code 覆盖结果" MODIFIED="1725524605473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$login.coverage" NAME="login 覆盖结果" MODIFIED="1724332855945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/aniliysis" />
+    <SUITE FILE_PATH="coverage/app$final_combined_with_login_registration.coverage" NAME="final_combined_with_login_registration 覆盖结果" MODIFIED="1725526871140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$app.coverage" NAME="app 覆盖结果" MODIFIED="1743946261227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/app$final_code_registration_login_language.coverage" NAME="final_code_registration_login_language 覆盖结果" MODIFIED="1725526246547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_login_corrected_code.coverage" NAME="final_login_corrected_code 覆盖结果" MODIFIED="1725524505886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_sys_import_fixed_code.coverage" NAME="final_sys_import_fixed_code 覆盖结果" MODIFIED="1725524812144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_corrected_registration_login_language_code.coverage" NAME="final_corrected_registration_login_language_code 覆盖结果" MODIFIED="1725525895912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$get_pip.coverage" NAME="get-pip 覆盖结果" MODIFIED="1725616251186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$" />
+    <SUITE FILE_PATH="coverage/app$final_code_with_progress_preserved.coverage" NAME="final_code_with_progress_preserved 覆盖结果" MODIFIED="1725523626593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_with_registration_login_bilingual_code.coverage" NAME="final_with_registration_login_bilingual_code 覆盖结果" MODIFIED="1725525301859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$ok_modified.coverage" NAME="ok_modified 覆盖结果" MODIFIED="1725507727647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$ok_modified_with_step_display.coverage" NAME="ok_modified_with_step_display 覆盖结果" MODIFIED="1725508010528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_ok_with_progress.coverage" NAME="final_ok_with_progress 覆盖结果" MODIFIED="1725521553460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_with_registration_code.coverage" NAME="final_with_registration_code 覆盖结果" MODIFIED="1725524981813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$generate_keys.coverage" NAME="generate_keys 覆盖结果" MODIFIED="1724246686621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/aniliysis" />
+    <SUITE FILE_PATH="coverage/app$ok.coverage" NAME="ok 覆盖结果" MODIFIED="1724131138743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/aniliysis" />
+    <SUITE FILE_PATH="coverage/app$final_fixed_code_with_progress.coverage" NAME="final_fixed_code_with_progress 覆盖结果" MODIFIED="1725523922238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/app$final_fully_corrected_code_with_progress_preserved.coverage" NAME="final_fully_corrected_code_with_progress_preserved 覆盖结果" MODIFIED="1725523813641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+  </component>
+</project>
